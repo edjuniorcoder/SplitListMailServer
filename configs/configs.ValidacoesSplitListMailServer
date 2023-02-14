@@ -1,0 +1,10 @@
+#Tue Feb 14 00:51:40 BRT 2023
+config.cbMX=false
+config.cbPorta1=false
+config.cbPorta2=false
+config.cbPorta3=false
+config.cbServer1=false
+config.cbServer2=false
+config.cbServer3=false
+config.cbServer4=false
+config.cbValidarEmail=true
